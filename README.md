@@ -1,14 +1,14 @@
 # minaw.net
 
-This repo contains several personal web projects, mainly using the Django framework.
+This repo is blog of my favorite designer.
 
 ## Perso
 
-My personal blog.
+Personal blog.
 
 ## Portfolio
 
-My portfolio.
+Portfolio.
 
 ## Avatar
 
