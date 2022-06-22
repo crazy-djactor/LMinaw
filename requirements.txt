@@ -22,7 +22,7 @@ gunicorn==19.7.1
 jmespath==0.9.3
 matplotlib==2.0.2
 multiprocess==0.70.5
-numpy==1.12.1
+numpy==1.22.0
 olefile==0.44
 opencv-python==3.2.0.6
 Pillow==4.0.0
